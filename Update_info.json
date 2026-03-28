@@ -1,0 +1,16 @@
+{
+	"Security_software": {
+		"ID": "2026032801",
+		"info": "此信息为极速云杀毒的更新测试通知!",
+		"Download": "Null",
+		"Files_Tpye": "MSI",
+		"Update_Files_ID": "2026032801",
+		"Must_download": "n"
+	},
+	"Windows_Update": {
+		"kp2026032801": "https://cdn.2026131.xyz/WindowsUpdate/2026032801.msi"
+	},
+	"TrustMesh_CA_Update": {
+		"TM_2026032801": "https://aia.trustmesh.dpdns.org/TM_2026032801.msi"
+	}
+}
