@@ -1,9 +1,9 @@
 {
     "SHA256": [{
-        "1": "https://cdn.2026131.xyz/SHA256-full-1",
-        "2": "https://cdn.2026131.xyz/SHA256-full-2",
-        "3": "https://cdn.2026131.xyz/SHA256-full-3",
-        "4": "https://cdn.2026131.xyz/SHA256-full-4",
-        "5": "https://cdn.2026131.xyz/SHA256-full-5"
+        "full-1": "https://cdn.2026131.xyz/SHA256-full-1",
+        "full-2": "https://cdn.2026131.xyz/SHA256-full-2",
+        "full-3": "https://cdn.2026131.xyz/SHA256-full-3",
+        "full-4": "https://cdn.2026131.xyz/SHA256-full-4",
+        "full-5": "https://cdn.2026131.xyz/SHA256-full-5"
     }]
 }
